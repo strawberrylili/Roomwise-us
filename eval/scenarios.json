@@ -1,0 +1,105 @@
+[
+  {
+    "name": "refresh-cozy-beige",
+    "photos": [
+      "spike/photos/IMG_2280.jpg"
+    ],
+    "brief": {
+      "style": [
+        "cozy",
+        "warm minimal"
+      ],
+      "description": "I want it cozy, beige or lighter colours, and I want blankets too.",
+      "colors": [
+        "beige",
+        "cream",
+        "ivory"
+      ],
+      "avoid": [],
+      "budget": 500,
+      "rental": true,
+      "keep": [
+        "black metal bed frame",
+        "arched floor mirror",
+        "black nightstand"
+      ],
+      "mustHave": [
+        "blankets"
+      ],
+      "intensity": "refresh"
+    },
+    "kickoff": "Here are photos of my bedroom. Please design the makeover end to end. If you need to pick a direction, choose the one you think fits best.",
+    "revision": "Can you swap the rug for something lighter and plusher? Keep everything else.",
+    "answers": {
+      "bed": "It's a full/double bed."
+    }
+  },
+  {
+    "name": "redesign-no-budget",
+    "photos": [
+      "spike/photos/IMG_2280.jpg"
+    ],
+    "brief": {
+      "style": [
+        "cozy",
+        "Japandi"
+      ],
+      "description": "Cozy, beige or lighter colours, lots of blankets. Make it inspiring \u2014 everything can go.",
+      "colors": [
+        "beige",
+        "cream",
+        "pale oak"
+      ],
+      "avoid": [],
+      "budget": null,
+      "intensity": "redesign",
+      "rental": true,
+      "keep": [],
+      "mustHave": [
+        "blankets"
+      ]
+    },
+    "kickoff": "Here are photos of my bedroom. Redesign it completely \u2014 no budget limit, everything can go. Show me concepts.",
+    "revision": "Love it. Can you make the bed even more layered and blanket-heavy? Keep the rest of the concept.",
+    "answers": {
+      "bed": "Full/double bed.",
+      "heater": "It's just a window ledge, not a heater.",
+      "concept": "Pick the one with a new layout."
+    }
+  },
+  {
+    "name": "living-dining-studio",
+    "photos": [
+      "spike/photos/IMG_2279.jpg"
+    ],
+    "brief": {
+      "style": [
+        "cozy",
+        "Japandi"
+      ],
+      "description": "Cozy and calm, beige or lighter colours, somewhere to relax and eat properly. Make it inspiring \u2014 everything can go except the kitchen.",
+      "colors": [
+        "beige",
+        "cream",
+        "pale oak"
+      ],
+      "avoid": [],
+      "budget": null,
+      "roomType": null,
+      "functions": [],
+      "intensity": "redesign",
+      "rental": true,
+      "keep": [
+        "kitchen cabinets and appliances"
+      ],
+      "mustHave": []
+    },
+    "kickoff": "Here's the main space of my apartment, next to the kitchen. Redesign it completely \u2014 no budget limit. Show me concepts.",
+    "revision": "Love it. Can you add more plants and make the lighting warmer? Keep the rest of the concept.",
+    "answers": {
+      "space": "Living + dining \u2014 a place to relax and a proper dining spot.",
+      "concept": "Pick the one you think is most inspiring.",
+      "direction": "Pick the one you think is most inspiring."
+    }
+  }
+]
